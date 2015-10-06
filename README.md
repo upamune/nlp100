@@ -5,4 +5,4 @@
 ## Progress
 
 Chap01 [oooooooooo]
-Chap02 [oo--------]
+Chap02 [ooooooo---]

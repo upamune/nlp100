@@ -6,4 +6,4 @@
 
 Chap01 [oooooooooo]
 Chap02 [oooooooooo]
-Chap03 [oo--------]
+Chap03 [oooo------]
